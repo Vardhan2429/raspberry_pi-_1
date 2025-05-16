@@ -1,5 +1,4 @@
-# raspberry_pi-_1
-controlling leds and ultrasonic sensors through a webserver
+
 
 
 from flask import Flask, redirect, url_for
